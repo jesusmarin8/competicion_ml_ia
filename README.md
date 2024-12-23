@@ -1,10 +1,10 @@
-# competicion_ml_ia
+# CAMPEONES 
 
 ## Objetivo de la competición
 
 El reto consiste en desarrollar un modelo de machine learning para predecir con la mayor precisión posible la collision cross section (CCS) de nuevas moléculas y sus aductos.
 
-# Datos disponibles
+## Datos disponibles
 
 - Conjunto de entrenamiento: Archivo public_train.csv que contiene tanto las features como las etiquetas (valores CCS) para entrenar vuestro modelo.
 - Conjunto de test: Archivo public_test.csv que contiene únicamente las features. Los valores CCS de este conjunto no se proporcionan y serán utilizados para evaluar vuestro modelo.
